@@ -2,8 +2,6 @@
 
 ### Computer Sience Undergraduate
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tn4u&label=Profile views&color=0e75b6&style=flat" alt="tn4u" /> </p>
-
 - 🔭 I'm currently working on **AI/ML engineer, Data scientist**
 
 - 🌱 I'm currently learning **Deep Learning, Natural Language Processing (NLP), and Computer Vision (CV), including model training and application development
@@ -13,9 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/tn4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tn4u" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Tuan Khong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tuan Khong" height="30" width="40" /></a>
-<a href="https://fb.com/Tuan Khong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tuan Khong" height="30" width="40" /></a>
+<a href="https://github.com/https://github.com/tn4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/tn4u" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tuan-khong-3629083b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tuan-khong-3629083b3/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
